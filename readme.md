@@ -13,6 +13,10 @@ A CLI dice roller built with Go.
 # Single die roll
 ./droll --roll=1d8
 
+or
+
+./droll --roll=d20
+
 # Stacked dice rolls
 ./droll --roll=4d12
 

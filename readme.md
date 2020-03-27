@@ -5,7 +5,7 @@ A CLI dice roller built with Go.
 ## Set up
 
 - Currently requires Go 1.12 or above
-- Currently needs to be built by running with `go build` within the directory
+- Currently needs to be built by running `go build` within the directory
 
 ## Examples
 
@@ -17,5 +17,5 @@ A CLI dice roller built with Go.
 ./droll --roll=4d12
 
 # Multiple dice rolls, flag parses as csv
-./droll --rolle=4d12,8d6,2d20
+./droll --roll=4d12,8d6,2d20
 ```
